@@ -1,0 +1,19 @@
+{
+  "name": "aws-self-study",
+  "version": "1.0.0",
+  "description": "repo to learn aws and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertfonseca/aws-self-study.git"
+  },
+  "author": "alberto fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertfonseca/aws-self-study/issues"
+  },
+  "homepage": "https://github.com/albertfonseca/aws-self-study#readme"
+}

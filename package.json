@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/albertfonseca/aws-self-study/issues"
   },
-  "homepage": "https://github.com/albertfonseca/aws-self-study#readme"
+  "homepage": "https://github.com/albertfonseca/aws-self-study#readme",
+  "dependencies": {
+    "aws-sdk": "^2.250.1"
+  }
 }
